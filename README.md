@@ -8,6 +8,13 @@ Runbooks and templates for teams that let AI agents act on their behalf: send, p
 |---|---|
 | [Confidence thresholds and human review](guides/confidence-thresholds-runbook.md) | Action tiers, error pricing, shadow-mode calibration, a review-ledger template, a threshold change log, and a pre-launch checklist |
 
+| Guide | What you get |
+ |---|---|
+ | [Confidence thresholds and human review](guides/confidence-thresholds-runbook.md) | Action tiers, error pricing, shadow-mode calibration, a review-ledger template, a threshold change log, and a pre-launch checklist |
+ | [Cloud outage continuity checklist](guides/cloud-outage-continuity-checklist.md) | A dependency inventory template, three questions that decide which tasks survive a provider outage (inference, files, login), what to move first, and a one-afternoon verification |
++| [Self-hosted AI agent evaluation](guides/self-hosted-ai-agent-evaluation.md) | Six groups of questions to put to any agent product before committing (credentials, memory export, where approvals are enforced, logs, license, offline and phone-home, upgrades), where to find each answer, and a scoring sheet |
+
+
 ## Background
 
 We are the team behind [KarmaBox](https://www.karmaboxai.com), a platform and network for running your own AI avatars. The methods here are the ones we use and recommend, written to work with any stack.
