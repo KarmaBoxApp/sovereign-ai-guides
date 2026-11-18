@@ -16,6 +16,8 @@ Runbooks and templates for teams that let AI agents act on their behalf: send, p
 
 | [AI stack residency and sovereignty audit](guides/ai-stack-residency-audit.md) | Map where each AI tool's vendor is incorporated, where inference runs, and what actually leaves your machines, with capture commands for observed traffic and a per-tool record template |
 
+   - [Dependency mirroring: keep a copy of what your build pulls](guides/dependency-mirroring.md): mirrors for repos, release assets, and packages, set up before an upstream vanishes.
+
 ## Background
 
 We are the team behind [KarmaBox](https://www.karmaboxai.com), a platform and network for running your own AI avatars. The methods here are the ones we use and recommend, written to work with any stack.
