@@ -18,6 +18,9 @@ Runbooks and templates for teams that let AI agents act on their behalf: send, p
 
    - [Dependency mirroring: keep a copy of what your build pulls](guides/dependency-mirroring.md): mirrors for repos, release assets, and packages, set up before an upstream vanishes.
 
+ | Portable agent memory: file spec and migration checklist | Five entry types with a JSON schema, field-by-field notes, what to keep out of the file, a ten-question golden set, and a migration procedure with rollback | 
+ 
+
 ## Background
 
 We are the team behind [KarmaBox](https://www.karmaboxai.com), a platform and network for running your own AI avatars. The methods here are the ones we use and recommend, written to work with any stack.
