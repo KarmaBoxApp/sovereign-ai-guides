@@ -19,7 +19,8 @@ Runbooks and templates for teams that let AI agents act on their behalf: send, p
    - [Dependency mirroring: keep a copy of what your build pulls](guides/dependency-mirroring.md): mirrors for repos, release assets, and packages, set up before an upstream vanishes.
 
  | Portable agent memory: file spec and migration checklist | Five entry types with a JSON schema, field-by-field notes, what to keep out of the file, a ten-question golden set, and a migration procedure with rollback | 
- 
+
+  | Local task fit: scoring checklist and golden-set acceptance | A four-dimension fit score for deciding which task classes move to a local model, a ten-task golden set in YAML with a missing-input trap, pass-rate tiers, and a re-test log format | 
 
 ## Background
 
