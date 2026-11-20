@@ -14,12 +14,20 @@ Runbooks and templates for teams that let AI agents act on their behalf: send, p
  | [Cloud outage continuity checklist](guides/cloud-outage-continuity-checklist.md) | A dependency inventory template, three questions that decide which tasks survive a provider outage (inference, files, login), what to move first, and a one-afternoon verification |
 +| [Self-hosted AI agent evaluation](guides/self-hosted-ai-agent-evaluation.md) | Six groups of questions to put to any agent product before committing (credentials, memory export, where approvals are enforced, logs, license, offline and phone-home, upgrades), where to find each answer, and a scoring sheet |
 
+| Guide | What you get |
+|---|---|
 | [AI stack residency and sovereignty audit](guides/ai-stack-residency-audit.md) | Map where each AI tool's vendor is incorporated, where inference runs, and what actually leaves your machines, with capture commands for observed traffic and a per-tool record template |
 
+| Guide | What you get |
+|---|---|
    - [Dependency mirroring: keep a copy of what your build pulls](guides/dependency-mirroring.md): mirrors for repos, release assets, and packages, set up before an upstream vanishes.
 
+| Guide | What you get |
+|---|---|
  | Portable agent memory: file spec and migration checklist | Five entry types with a JSON schema, field-by-field notes, what to keep out of the file, a ten-question golden set, and a migration procedure with rollback | 
 
+| Guide | What you get |
+|---|---|
   | Local task fit: scoring checklist and golden-set acceptance | A four-dimension fit score for deciding which task classes move to a local model, a ten-task golden set in YAML with a missing-input trap, pass-rate tiers, and a re-test log format | 
 
 ## Background
